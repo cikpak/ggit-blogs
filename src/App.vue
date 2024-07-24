@@ -6,6 +6,7 @@ import { RouterLink, RouterView } from 'vue-router'
 
 <template>
   <RouterView />
+  //ura
 </template>
 
 <style scoped>
