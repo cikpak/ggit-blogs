@@ -17,15 +17,15 @@
             />
         </div>
         <div v-else>
-            <p>Nici un post nu a fost creat</p>
+            <p>𝓔𝓜𝓟𝓣𝓨</p>
         </div>
 
         <div>
             <input v-model="user"/>
             <textarea v-model="post"></textarea>
             <select v-model="tag">
-                <option value="general">General</option>
-                <option value="flame">Flame</option>
+                <option value="general">YEEEEEES</option>
+                <option value="flame">FIREEEEE</option>
                 <option value="recommendation">NOOOOOOO</option>
             </select>
 
