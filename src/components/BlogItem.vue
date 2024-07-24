@@ -4,9 +4,9 @@
         <p>{{post}}</p>
 
         <div>
-            <button @click="likeItem">Like</button>
+            <button @click="likeItem">GOOD</button>
             <p>{{likes}}</p>
-            <button @click="dislikeItem">Dislike</button>
+            <button @click="dislikeItem">BAD</button>
         </div>
     </div>
 </template>

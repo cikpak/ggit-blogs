@@ -26,7 +26,7 @@
             <select v-model="tag">
                 <option value="general">General</option>
                 <option value="flame">Flame</option>
-                <option value="recommendation">Recommendation</option>
+                <option value="recommendation">NOOOOOOO</option>
             </select>
 
             <button @click="submitFormHandler">Save</button>
